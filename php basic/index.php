@@ -15,10 +15,18 @@ hi atosh
 echo'           
 
 d<input type="text" placeholder="Name" required > 
-<p onClick="window.location.href='www.'"> nobiuyf</p>
+// <p onClick="window.location.href='www.'"> nobiuyf</p>
 
 '
 
 ;
 
 ?>
+funct add(){
+    int a,b;
+    //code 
+    return 0;
+}
+add();
+
+
